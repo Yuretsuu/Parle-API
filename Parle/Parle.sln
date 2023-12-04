@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parle.Domain", "Parle.Domain\Parle.Domain.csproj", "{7092ADE5-1E9A-4A44-8C94-E384A396B8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parle.Infrastructure", "Parle.Infrastructure\Parle.Infrastructure.csproj", "{87C1BCF9-BCC8-4A1B-9227-23FAC925334E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parle.API", "Parle.API\Parle.API.csproj", "{A2F18EBF-0A61-447F-9E2E-DA4DE29D834F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{EC7B9092-6C1B-42CC-8372-0EEE3DC99F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7092ADE5-1E9A-4A44-8C94-E384A396B8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7092ADE5-1E9A-4A44-8C94-E384A396B8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7092ADE5-1E9A-4A44-8C94-E384A396B8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7092ADE5-1E9A-4A44-8C94-E384A396B8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C1BCF9-BCC8-4A1B-9227-23FAC925334E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C1BCF9-BCC8-4A1B-9227-23FAC925334E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C1BCF9-BCC8-4A1B-9227-23FAC925334E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C1BCF9-BCC8-4A1B-9227-23FAC925334E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F18EBF-0A61-447F-9E2E-DA4DE29D834F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F18EBF-0A61-447F-9E2E-DA4DE29D834F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F18EBF-0A61-447F-9E2E-DA4DE29D834F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F18EBF-0A61-447F-9E2E-DA4DE29D834F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

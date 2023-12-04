@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "33WJIRGNRLzEyAFtKv7wJ6vtl7W3sfq4V7sXrYCa+qsXVL3fm0fUKyuayHx9eqE5yky3A5FCqKXfYQslmKr44A==",
+  "success": true,
+  "projectFilePath": "C:\\Learning Projects\\Parle\\Parle\\Parle.Domain\\Parle.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eliza\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

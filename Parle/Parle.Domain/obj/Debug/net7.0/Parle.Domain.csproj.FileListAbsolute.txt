@@ -1,0 +1,12 @@
+C:\Learning Projects\Parle\Parle\Parle.Domain\bin\Debug\net7.0\Parle.Domain.deps.json
+C:\Learning Projects\Parle\Parle\Parle.Domain\bin\Debug\net7.0\Parle.Domain.dll
+C:\Learning Projects\Parle\Parle\Parle.Domain\bin\Debug\net7.0\Parle.Domain.pdb
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\Parle.Domain.csproj.AssemblyReference.cache
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\Parle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\Parle.Domain.AssemblyInfoInputs.cache
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\Parle.Domain.AssemblyInfo.cs
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\Parle.Domain.csproj.CoreCompileInputs.cache
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\Parle.Domain.dll
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\refint\Parle.Domain.dll
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\Parle.Domain.pdb
+C:\Learning Projects\Parle\Parle\Parle.Domain\obj\Debug\net7.0\ref\Parle.Domain.dll

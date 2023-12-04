@@ -1,0 +1,17 @@
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\bin\Debug\net8.0\Parle.Infrastructure.deps.json
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\bin\Debug\net8.0\Parle.Infrastructure.runtimeconfig.json
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\bin\Debug\net8.0\Parle.Infrastructure.dll
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\bin\Debug\net8.0\Parle.Infrastructure.pdb
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\bin\Debug\net8.0\Parle.Domain.dll
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\bin\Debug\net8.0\Parle.Domain.pdb
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.csproj.AssemblyReference.cache
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.AssemblyInfoInputs.cache
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.AssemblyInfo.cs
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.csproj.CopyComplete
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.dll
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\refint\Parle.Infrastructure.dll
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.pdb
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\Parle.Infrastructure.genruntimeconfig.cache
+C:\Learning Projects\Parle\Parle\Parle.Infrastructure\obj\Debug\net8.0\ref\Parle.Infrastructure.dll
